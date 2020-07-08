@@ -11,3 +11,6 @@ I hope to learn techniques used by storytellers, documentarians, and artists to 
 
 # Portfolio
 Here's where I plan on adding data visualizations that I will learn throughout the course and visual that I create in the future.
+
+1. Visuals/Charts Critiques
+2. Controlling colors
