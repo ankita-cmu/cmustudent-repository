@@ -20,4 +20,6 @@ Here's where I plan on adding data visualizations that I will learn throughout t
 </script>
 
 
-<iframe src="https://data.oecd.org/chart/61KX" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/61KX" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
+### Week 2 assignment
+
+<iframe src="https://data.oecd.org/chart/61L1" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/61L1" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
