@@ -30,6 +30,8 @@ Here's where I plan on adding data visualizations that I will learn throughout t
 
 #### Part 2: Working with Flourish
 
-##### First visual
+**First visual**
 <div class="flourish-embed flourish-chart" data-src="visualisation/3176641" data-url="https://flo.uri.sh/visualisation/3176641/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+**Second visual**
+<div class="flourish-embed flourish-chart" data-src="visualisation/3177546" data-url="https://flo.uri.sh/visualisation/3177546/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
