@@ -35,3 +35,24 @@ Here's where I plan on adding data visualizations that I will learn throughout t
 
 **Second visual**
 <div class="flourish-embed flourish-chart" data-src="visualisation/3177546" data-url="https://flo.uri.sh/visualisation/3177546/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+The assignments and readings from Week2 focused on Chart elements, color, typography, and cognition. For the two charts above, we worked on OECD data collected from https://data.oecd.org/. The data pertains to General Government debt across various countries through the span of years. This data is available for public use and contains data from 1995 through 2019. We used data for the year ranging from 1995 to 2018. We used the Flourish reporting studio tool to create these visuals.
+
+The general government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator of the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions, and standardized guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits [1].
+
+We have used three types of visualizations above.
+
+The first visual (Part 1) is a bar graph that is available on the OECD Data website’s Featured charts. Each bar represents a country and the bars are arranged in ascending order of General government debt. The bar chart has a feature of changing color when it is clicked or selected in the settings.
+
+The second graph (Part 2 - first graph) is a Line chart type of visualization. Each little graph represents an individual country. This plot type distinctly shows a comparison between various countries. If we had created a single line chart with one line for each country, it would have been a chaotic graph. If the cursor hovers over a particular country graph, the numbers are displayed for each year.
+ 
+The third graph (Part 2 - second graph) is an Area chart type visualization. Similar to the line graph, each small visual shows a graph for an individual country. With an area chart, the visualization of the change of Government debt is better compared to the Line chart. The highlighted portion grabs the attention of a user towards the time and debt values. The comparison amongst individual countries is simpler in this chart type. For instance, the lines for Belgium and Canada are pretty close, however, the highlighted part comes into play in visualizing the difference.
+
+Both these visuals will be able to successfully convey the message of General Government Debt for various countries in the last 23 years.
+ 
+**References:**
+[1] OECD (2020), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 15 July 2020)
+
+
+
+
