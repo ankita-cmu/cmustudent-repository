@@ -54,5 +54,7 @@ Both these visuals will be able to successfully convey the message of General Go
 [1] OECD (2020), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 15 July 2020)
 
 
+### Week3: Tableau In class tutorial
 
+<script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1442px; height: 846px;'><object class='tableauViz' width='1442' height='846' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;ankitacmu' /><param name='name' value='Week3Inclassexercise&#47;TrustinnewsorganizationssourceSimmonsResearch-thirdvisual' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
 
