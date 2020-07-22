@@ -64,4 +64,4 @@ Both these visuals will be able to successfully convey the message of General Go
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3246564" data-url="https://flo.uri.sh/visualisation/3246564/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-https://github.com/ankita-cmu/cmustudent-repository/issues/1#issue-663834837
+<img width="783" alt="Bar chart with tooltip" src="https://user-images.githubusercontent.com/67939647/88193005-cd06d780-cc02-11ea-8392-8dc1d63397cd.png">
