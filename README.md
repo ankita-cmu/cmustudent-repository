@@ -79,7 +79,7 @@ I decided to complete the entire homework using Balsamiq wireframe. Balsamiq was
  
  *  I explored Flouris studio and Datawrapper to recreate my designs.
  
- The section below contains the imported images from Balsamiq.
+ The section below contains the imported images from Balsamiq wireframing that explains the thought process and redesigning of this visual.
 
 ![Page 1](https://user-images.githubusercontent.com/67939647/88195076-32f45e80-cc05-11ea-9917-cd60b8b5494a.png)
 
@@ -110,4 +110,21 @@ I decided to complete the entire homework using Balsamiq wireframe. Balsamiq was
 
 ![Page 10](https://user-images.githubusercontent.com/67939647/88195180-54ede100-cc05-11ea-9e48-235f6aceabca.png)
 
+
+Once the wireframing and redesign was complete, I requested Shunji Yamuuchi to review my work. She was kind enough to write below feedback:
+
+<img width="723" alt="Peer review 1" src="https://user-images.githubusercontent.com/67939647/88194496-87e3a500-cc04-11ea-91f9-4370add1bd1b.png">
+
+Shunji suggested three improvements on the Column chart. I could not change the title of the chart because Flourish did nt have an option to do it.
+However, I changed the below things:
+
+*  Removed the angle from Cricketer names on x-axis
+
+*  Changed the color of Cricketer names from Gray to black.
+
+Here is the improved image:
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/3246564" data-url="https://flo.uri.sh/visualisation/3246564/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+This marks the completion of this assignment.
 
