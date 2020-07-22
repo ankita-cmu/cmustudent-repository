@@ -140,5 +140,9 @@ Here is the improved bar chart:
 
 ![Bar chart improved](https://user-images.githubusercontent.com/67939647/88221853-aa88b480-cc2a-11ea-85fb-b957023686ff.png)
 
+Finally, I updated the Balsamiq wireframe with these improved graphs and exported it to pdf. Here is the improved wireframe with redesigned visualizations.
+
+[Assignment 3 & 4 wireframe post redesign, Ankita Bhatnagar.pdf](https://github.com/ankita-cmu/cmustudent-repository/files/4962285/Assignment.3.4.wireframe.post.redesign.Ankita.Bhatnagar.pdf)
+
 This marks the completion of this assignment. 
 
