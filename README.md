@@ -81,7 +81,7 @@ I decided to complete the entire homework using Balsamiq wireframe. Balsamiq was
  
  The section below contains the imported images from Balsamiq wireframing that explains the thought process and redesigning of this visual.
 
-![Page 1](https://user-images.githubusercontent.com/67939647/88195076-32f45e80-cc05-11ea-9917-cd60b8b5494a.png)
+![Page 1](https://user-images.githubusercontent.com/67939647/88200593-faa44e80-cc0b-11ea-8143-6bbcc7a37e9c.png)
 
 
 ![Page 2](https://user-images.githubusercontent.com/67939647/88195088-3687e580-cc05-11ea-9846-539a2fdef3ee.png)
