@@ -62,9 +62,24 @@ Both these visuals will be able to successfully convey the message of General Go
 
 ### Week 3 Assignment 3 & 4: Critique by Design
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/3246564" data-url="https://flo.uri.sh/visualisation/3246564/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+This assignment was pretty interesting as well as engaging. I learnt a lot about critiques and story telling. The data visualization that I worked on was part of an article published by sports channel ESPNCricinfo. The link to the article is [here](https://www.espncricinfo.com/story/_/id/27143430/kane-williamson-hand-steadies-new-zealand-ship). I decided to pick this topic because Cricket has been an important sport in my life. I have grown watching cricket at home since my chilhood. ESPNCricinfo is a source we all trust for any news / updates related to cricket.
+I decided to complete the entire homework using Balsamiq wireframe. Balsamiq was a great opportunity to learn a new wireframing tool.This was my first time working with a wireframing tool. After creating my solution in Balsamic, I shared an exported copy of wireframe to couple of my fellow classmates to receive their feedback on my work. I have attached the feedback at later part of the page. following the steps as mentioned below to work on this project:
 
-<img width="783" alt="Bar chart with tooltip" src="https://user-images.githubusercontent.com/67939647/88193005-cd06d780-cc02-11ea-8392-8dc1d63397cd.png">
+ *  Searched for a visual that interests me but could use some rework.
+ 
+ *  Next, I read the article associated with the image and analyzed the visual.
+ 
+ *  I scraped the data out of this visual.
+ 
+ *  I made notes on what went well in the visual and what areas could be improved.
+ 
+ *  Once I had those jotted down, I filled in the Google form for that uses the methodology taught in [Stephen Few's Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)
+ 
+ *  Next, I started working on Balsamiq to lay out all the content along with the redesign techniques.
+ 
+ *  I explored Flouris studio and Datawrapper to recreate my designs.
+ 
+ The section below contains the imported images from Balsamiq.
 
 ![Page 1](https://user-images.githubusercontent.com/67939647/88195076-32f45e80-cc05-11ea-9917-cd60b8b5494a.png)
 
