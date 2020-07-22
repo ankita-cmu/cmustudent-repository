@@ -63,7 +63,7 @@ Both these visuals will be able to successfully convey the message of General Go
 ### Week 3 Assignment 3 & 4: Critique by Design
 
 This assignment was pretty interesting as well as engaging. I learnt a lot about critiques and story telling. The data visualization that I worked on was part of an article published by sports channel ESPNCricinfo. The link to the article is [here](https://www.espncricinfo.com/story/_/id/27143430/kane-williamson-hand-steadies-new-zealand-ship). I decided to pick this topic because Cricket has been an important sport in my life. I have grown watching cricket at home since my chilhood. ESPNCricinfo is a source we all trust for any news / updates related to cricket.
-I decided to complete the entire homework using Balsamiq wireframe. Balsamiq was a great opportunity to learn a new wireframing tool.This was my first time working with a wireframing tool. After creating my solution in Balsamic, I shared an exported copy of wireframe to couple of my fellow classmates to receive their feedback on my work. I have attached the feedback at later part of the page. following the steps as mentioned below to work on this project:
+I decided to complete the entire homework using Balsamiq wireframe. Balsamiq was a great opportunity to learn a new wireframing tool.This was my first time working with a wireframing tool. After creating my solution in Balsamiq, I shared an exported copy of wireframe to couple of my fellow classmates to receive their feedback on my work. I have attached the feedback at later part of the page. I followed the steps as mentioned below to work on this project:
 
  *  Searched for a visual that interests me but could use some rework.
  
@@ -77,9 +77,9 @@ I decided to complete the entire homework using Balsamiq wireframe. Balsamiq was
  
  *  Next, I started working on Balsamiq to lay out all the content along with the redesign techniques.
  
- *  I explored Flouris studio and Datawrapper to recreate my designs.
+ *  I explored Flourish studio and Datawrapper to recreate my designs.
  
- The section below contains the imported images from Balsamiq wireframing that explains the thought process and redesigning of this visual.
+ The section below contains the imported images from Balsamiq wireframing that explains the thought process and redesigning of this visual. The pdf of this wireframe can be found here: [Assignment 3 & 4 wireframe, Ankita Bhatnagar.pdf](https://github.com/ankita-cmu/cmustudent-repository/files/4961116/Assignment.3.4.wireframe.Ankita.Bhatnagar.pdf)
 
 ![Page 1](https://user-images.githubusercontent.com/67939647/88200593-faa44e80-cc0b-11ea-8143-6bbcc7a37e9c.png)
 
