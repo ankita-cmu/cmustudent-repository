@@ -60,8 +60,39 @@ Both these visuals will be able to successfully convey the message of General Go
 
 <script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1442px; height: 846px;'><object class='tableauViz' width='1442' height='846' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;ankitacmu' /><param name='name' value='Week3Inclassexercise&#47;TrustinnewsorganizationssourceSimmonsResearch-thirdvisual' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
 
-### Week 3 Assignment:  Critique by Design
+### Week 3 Assignment 3 & 4: Critique by Design
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3246564" data-url="https://flo.uri.sh/visualisation/3246564/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <img width="783" alt="Bar chart with tooltip" src="https://user-images.githubusercontent.com/67939647/88193005-cd06d780-cc02-11ea-8392-8dc1d63397cd.png">
+
+![Page 1](https://user-images.githubusercontent.com/67939647/88195076-32f45e80-cc05-11ea-9917-cd60b8b5494a.png)
+
+
+![Page 2](https://user-images.githubusercontent.com/67939647/88195088-3687e580-cc05-11ea-9846-539a2fdef3ee.png)
+
+
+![Page 3](https://user-images.githubusercontent.com/67939647/88195104-3b4c9980-cc05-11ea-8e28-1f45619bfa7c.png)
+
+
+![Page 4](https://user-images.githubusercontent.com/67939647/88195116-3e478a00-cc05-11ea-975a-063e7d8a35d3.png)
+
+
+![Page 5](https://user-images.githubusercontent.com/67939647/88195123-40a9e400-cc05-11ea-9653-96d9e862c7ae.png)
+
+
+![Page 6](https://user-images.githubusercontent.com/67939647/88195130-443d6b00-cc05-11ea-9929-c706339845b8.png)
+
+
+![Page 7](https://user-images.githubusercontent.com/67939647/88195151-4d2e3c80-cc05-11ea-9f6e-50874d5ff034.png)
+
+
+![Page 8](https://user-images.githubusercontent.com/67939647/88195160-50292d00-cc05-11ea-9f0e-99daeee5ee5b.png)
+
+
+![Page 9](https://user-images.githubusercontent.com/67939647/88195168-528b8700-cc05-11ea-9b34-c22ec8b3fe3a.png)
+
+
+![Page 10](https://user-images.githubusercontent.com/67939647/88195180-54ede100-cc05-11ea-9e48-235f6aceabca.png)
+
+
