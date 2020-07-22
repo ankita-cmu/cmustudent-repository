@@ -126,5 +126,19 @@ Here is the improved image:
 
 ![Column chart - improved](https://user-images.githubusercontent.com/67939647/88201101-aea5d980-cc0c-11ea-84bc-d71ad7998b54.png)
 
-This marks the completion of this assignment.
+The second feedback that I received is from Miaojun Xu who was kind enough to write below feedback:
+
+<img width="723" alt="Peer review 2" src="https://user-images.githubusercontent.com/67939647/88221795-98a71180-cc2a-11ea-8796-071bb1dc51e3.png">
+
+Based on Miaojun's suggestions, I changed the bar chart visualization on Datawrapper with following improvements:
+ 
+*  Changed the title to of the chart to be more informative.
+
+*  Removed the legend for color and incorporated the details in title.
+
+Here is the improved bar chart:
+
+![Bar chart improved](https://user-images.githubusercontent.com/67939647/88221853-aa88b480-cc2a-11ea-85fb-b957023686ff.png)
+
+This marks the completion of this assignment. 
 
