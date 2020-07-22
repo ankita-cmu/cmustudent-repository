@@ -124,7 +124,7 @@ However, I changed the below things:
 
 Here is the improved image:
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/3246564" data-url="https://flo.uri.sh/visualisation/3246564/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+![Column chart - improved](https://user-images.githubusercontent.com/67939647/88201101-aea5d980-cc0c-11ea-84bc-d71ad7998b54.png)
 
 This marks the completion of this assignment.
 
