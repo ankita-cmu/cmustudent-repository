@@ -146,3 +146,10 @@ Finally, I updated the Balsamiq wireframe with these improved graphs and exporte
 
 This marks the completion of this assignment. 
 
+### Week 4
+
+#### Tableau in class exercise
+**COVID 19 data exploration in the USA**
+
+<script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1442px; height: 846px;'><object class='tableauViz' width='1442' height='846' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;ankitacmu' /><param name='name' value='Week4-COVID19&#47;COVID19' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
+
