@@ -159,7 +159,7 @@ Week 5 was all about getting our head around the final project. I had selected t
 ### Week 6
 In Week 6, we were expected to create a final presentation on one of the story telling online tools. I chose Shorthand to create my final presentaion. I heavily used Canva to create a lot of posters and pages with useful symbols, text, background, and images.
 
-My journey throughout the final project can be found here: https://ankita-cmu.github.io/Data-viz-finalproject/
+My journey throughout the final project can be found [here](https://ankita-cmu.github.io/Data-viz-finalproject/)
 
 **Final note about this course**
 I enjoyed working on the course work thoroughly. It was extremely engaging. I learnt a number of data visualization best pratices that I might have overlooked in the past. I hope to use the skill set that I have developed during this course in my professional life and studies at Carnegie Mellon.
