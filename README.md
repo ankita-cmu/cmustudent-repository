@@ -153,3 +153,17 @@ This marks the completion of this assignment.
 
 <script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1442px; height: 846px;'><object class='tableauViz' width='1442' height='846' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;ankitacmu' /><param name='name' value='Week4-COVID19&#47;COVID19' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
 
+### Week 5
+Week 5 was all about getting our head around the final project. I had selected the topic - 'The rise of Google'. However, after multiple discussions with Professor, TA, and my peers, I had to change the topic. My new topic was 'Texans, Wear a Mask'. The project was focused on the pandemic COVID-19 and how Texas was doing during this pandemic.
+
+### Week 6
+In Week 6, we were expected to create a final presentation on one of the story telling online tools. I chose Shorthand to create my final presentaion. I heavily used Canva to create a lot of posters and pages with useful symbols, text, background, and images.
+
+My journey throughout the final project can be found here: https://ankita-cmu.github.io/Data-viz-finalproject/
+
+**Final note about this course**
+I enjoyed working on the course work thoroughly. It was extremely engaging. I learnt a number of data visualization best pratices that I might have overlooked in the past. I hope to use the skill set that I have developed during this course in my professional life and studies at Carnegie Mellon.
+
+
+
+
